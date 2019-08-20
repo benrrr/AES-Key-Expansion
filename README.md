@@ -3,7 +3,7 @@ Python implementation of AES Key expansion.
 Code found [here](https://github.com/benjimr/AES-Key-Expansion).
 
 ## Output
-<img src="https://i.imgur.com/Tfl7wid.jpg" alt="Output" style="max-width:50%;margin:auto;">
+<img src="https://i.imgur.com/Tfl7wid.jpg" alt="Output" style="width:50%;margin:auto;">
 
 ![Output](https://i.imgur.com/Tfl7wid.jpg "Output")
 
